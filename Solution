@@ -7,5 +7,6 @@ Ans: SHA256- 0c82e654c09c8fd9fdf4899718efa37670974c9eec5a8fc18a167f93cea6ee83
 
 - What architecture is this binary?
 Ans: Windows 32-bit binary is the architecture of the given sample. This can be viewed in PEstudio
+![Image Alt Text](Snips/architecture.jpg)
 
 
